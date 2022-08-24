@@ -1,0 +1,1 @@
+# javascript_navigator_object
